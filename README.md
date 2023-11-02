@@ -1,4 +1,4 @@
-![Screenshot 2023-11-02 232913](https://github.com/BaskaranV15/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118703522/701c1b14-4061-4624-9fb5-14cc0a7794d4)![Screenshot 2023-11-02 232853](https://github.com/BaskaranV15/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118703522/f8d2a310-da5a-4cb5-bbd0-03b337d567e5)![Screenshot 2023-11-02 232901](https://github.com/BaskaranV15/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118703522/ab5147c5-76b4-4d03-b606-0b9c82d75b42)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
